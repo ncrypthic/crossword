@@ -1,0 +1,14 @@
+indonesia, Negara kepulauan di asia tenggara
+bendera, Merah putih
+merah, Warna bendera Indonesia
+putih, Warna bendera Indonesia
+agustus, Tanggal kemerdekaan Republik Indonesia
+soekarno, Presiden pertama Republik Indonesia
+hatta, wakil presiden pertama Republik Indonesia
+merdeka, bebas dari penjajahan
+upacara, acara wajib di hari kemerdekaan
+lapangan, tempat yang sangat luas
+topi, pelindung kepala saat upacara
+pancasila, dasar negara indonesia
+inspektur, pemimpin upacara
+pahlawan, pembela negara
